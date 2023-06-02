@@ -12,3 +12,6 @@ $ flutter pub get
 
 ## Utilisation
 Pour le moment la seule possibilité est de s'inscrire, se connecter, d'ajouter une terre et de voir son évolution
+
+## Maquette 
+Les maquettes sont dans le dossier maquette 
