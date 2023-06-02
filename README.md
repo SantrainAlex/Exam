@@ -14,4 +14,7 @@ $ flutter pub get
 Pour le moment la seule possibilité est de s'inscrire, se connecter, d'ajouter une terre et de voir son évolution
 
 ## Maquette 
-Les maquettes sont dans le dossier maquette 
+Les maquettes sont dans le dossier maquette&mcd
+
+## MCD 
+le mcd est dans le dossier 
